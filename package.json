@@ -1,0 +1,29 @@
+{
+  "name": "pantry",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.6",
+    "@mui/material": "^5.16.5",
+    "axios": "^1.7.3",
+    "dayjs": "^1.11.12",
+    "firebase": "^10.12.5",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-html5-camera-photo": "^1.5.11",
+    "tesseract.js": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
